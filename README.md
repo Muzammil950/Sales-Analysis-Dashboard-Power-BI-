@@ -28,8 +28,4 @@ This Power BI dashboard provides a comprehensive view of company sales performan
 - Microsoft Excel  
 - DAX & Power Query  
 
-## 📬 Author
-**Muzammil [Your Surname]**  
-📧 [your.email@example.com]  
-🔗 [LinkedIn Profile]
 
