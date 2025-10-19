@@ -16,7 +16,7 @@ This Power BI dashboard provides a comprehensive view of company sales performan
 - `Report_Insights.pdf` – Summary report  
 
 ## 🖼 Dashboard Preview
-![Overview Page](Dashboard_Screenshots/Overview_Page.png)
+![Overview Page](https://github.com/Muzammil950/Sales-Analysis-Dashboard-Power-BI-/blob/07367df46c3a177d3b3892763ba164a1e29f0db3/Overview_Page.png)
 
 ## 🧠 Key Insights
 - 20% sales growth observed in the North region  
